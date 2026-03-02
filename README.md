@@ -1,2 +1,2 @@
 # git_learning
-Leaning Git
+Learning Git
